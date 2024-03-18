@@ -122,6 +122,14 @@
     font-weight: 800;
   }
   .main__wrapper__desc {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .main__wrapper__desc span {
+    font-weight: 700;
   }
   .main__wrapper__links {
   }
