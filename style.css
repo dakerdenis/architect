@@ -126,10 +126,32 @@
     margin: 0 auto;
     margin-top: 40px;
     font-size: 20px;
-    line-height: 28px;
+    line-height: 35px;
   }
   .main__wrapper__desc span {
-    font-weight: 700;
+    font-weight: 600;
   }
   .main__wrapper__links {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 35px;
   }
+  .main__wrapper__links__name{
+    font-size: 28px;
+    font-weight: 700;
+  }
+
+  .main__wrapper__links__wrapper{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+  }
+  .main__wrapper__links__wrapper iframe{
+    margin-bottom: 30px;
+  }
+
+
