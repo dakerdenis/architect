@@ -146,12 +146,34 @@
   .main__wrapper__links__wrapper{
     margin-top: 40px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly ;
     flex-wrap: wrap;
 
   }
   .main__wrapper__links__wrapper iframe{
     margin-bottom: 30px;
+  }
+
+  .main__wrapper__links__wrapper a{
+    margin-bottom: 30px;
+    height: 316px;
+    width: 404px;
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e3e3e3;
+    padding: 40px;
+    color: #fff;
+
+
+    background-size: cover;
+    background-position: center;
+  }
+
+  .main__wrapper__links__wrapper a:nth-child(1){
+
   }
 
 
